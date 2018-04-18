@@ -1,5 +1,5 @@
 			Dungeon Crawl MOD for Baldur's Gate II
-				   Version 9.1
+				   Version 10
 			  A Pocket Plane Group Project
 			   http://www.pocketplane.net
 
@@ -185,6 +185,11 @@ winLAME					http://winlame.sourceforge.net
 -------------------
 5. Version History
 -------------------
+
+Version 10
+- Chinese translation
+
+
 Version 9.1
 - Updated for EET compatibility
 - Added PVRZ

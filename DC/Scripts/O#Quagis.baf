@@ -13,7 +13,7 @@ NumTimesTalkedTo(0)
 Detect([PC])
 THEN
 RESPONSE #100
-DisplayStringHead(Myself,~So much is unfinished... abandoned... lost...~)
+DisplayStringHead(Myself,@0)
 END
 
 IF

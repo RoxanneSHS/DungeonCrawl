@@ -2,7 +2,7 @@ BACKUP ~DC\Backup~
 //AUTHOR ~http://forums.pocketplane.net~
 SUPPORT ~Roxanne - Send PM to Roxanne at SHSForums.net or RoxanneSHS@mail.com~
 
-VERSION ~v9.1~
+VERSION ~v10.0~
 
 
 ALWAYS
@@ -26,6 +26,7 @@ LANGUAGE ~Russian~ ~Russian~ ~DC/Russian/Setup-DC.tra~
 LANGUAGE ~German (Translated by Gerri)~ ~German~ ~DC/German/Setup-DC.tra~
 LANGUAGE ~Italian (Translated by Ilot)~ ~Italian~ ~DC/Italian/Setup-DC.tra~
 LANGUAGE ~Polish (Translated by Aristo)~ ~Polish~ ~DC/Polish/Setup-DC.tra~
+LANGUAGE ~Chinese (Translated by Merzbau)~ ~Schinese~ ~DC/Schinese/Setup-DC.tra~
 
 BEGIN @0
 
